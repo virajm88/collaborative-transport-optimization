@@ -1,0 +1,6 @@
+# Direct dependencies pinned to the versions used for the included reference run.
+# Python 3.11 or later. Use a virtual environment.
+numpy==2.3.5
+scipy==1.17.0
+matplotlib==3.10.8
+
